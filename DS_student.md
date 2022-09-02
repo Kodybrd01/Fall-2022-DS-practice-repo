@@ -1,7 +1,7 @@
 
-# Your First Name Last Name
+# Kody Byrd 
 ### Fall 2022
-DSBA student at Florida Polytechnic University currently enrolled in
+**DSBA student at Florida Polytechnic University currently enrolled in**
 
 * course name : Intro to Computations and Programming
 * course name : Intro to Data Science
